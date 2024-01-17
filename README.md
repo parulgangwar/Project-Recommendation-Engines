@@ -1,5 +1,6 @@
 # Recommendations with IBM Project
-### As a part of Data Science Nanodegree program by Udacity, this is third project named “Recommendations with IBM Project”. Aim of this project is to understand IBM watson studio, rank based recommendation, user based collaborative filtering and matrix factorization. 
+
+As a part of Data Science Nanodegree program by Udacity, this is third project named “Recommendations with IBM Project”. Aim of this project is to understand IBM watson studio, rank based recommendation, user based collaborative filtering and matrix factorization. 
 
 In the IBM Watson Studio, there is a large collaborative community ecosystem of articles, datasets, notebooks, and other A.I. and ML. assets. Users of the system interact with all of this. Within this scope, we created this recommendation system project to enhance the user experience and connect them with assets. This personalizes the experience for each user.
 
@@ -35,6 +36,6 @@ Finally, to complete a machine learning approach to building recommendations. Us
 * Pillow
 * Pickle
 
-# Recommendations with IBM Project at Github
-### [Github Link for Project](https://github.com/parulgangwar/Project-Recommendation-Engines)
+### Recommendations with IBM Project at Github
+[Github Link for Project](https://github.com/parulgangwar/Project-Recommendation-Engines)
 
